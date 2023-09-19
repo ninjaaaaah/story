@@ -6,7 +6,7 @@ He was happy at his job
 
 # Chapter 2: The Project
 
-One day, he was invited to join a key project.
+One day, he was invited to join a key project. This project aims to attract animals.
 
 # Chapter 3: The Promotion
 
