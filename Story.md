@@ -20,7 +20,7 @@ Steve was now a team leader. It was harder than he tought.
 
 # Chapter 5: Prod Issue
 
-A critical prod issue occurred. Everyone looked to Steve for the solution.
+A critical prod issue occurred. Everyone looked to Steve for the solution. Steve decided that the team needed to replicate the bug first.
 
 # Chapter 6: Resolution
 
