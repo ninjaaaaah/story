@@ -33,3 +33,7 @@ Steve got hit by a car.
 # Chapter 8: Rebirth
 
 Steve then got reincarnated as a child of a Japanese Idol.
+
+# Chapter 9: Steve v2
+
+Steve now has premium society status
