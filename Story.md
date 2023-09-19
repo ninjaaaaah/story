@@ -12,6 +12,7 @@ One day, he was invited to join a key project.
 
 The boss decided to have a talk with him.
 
-Chapter 4: Promotion (Again)
-The boss decided to have a talk with him again.
+# Chapter 4: Leadership 
+
+Steve was now a team leader. It was harder than he tought.
 
