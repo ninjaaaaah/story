@@ -29,3 +29,7 @@ Steve found the bug, thanks to careful replication.
 # Chapter 7: Death
 
 Steve got hit by a car.
+
+# Chapter 8: Rebirth
+
+Steve then got reincarnated as a child of a Japanese Idol.
