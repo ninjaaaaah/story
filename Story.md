@@ -12,7 +12,8 @@ One day, he was invited to join a key project.
 
 The boss decided to have a talk with him. "Steve, it's time you became a Team Leader."
 
-# Chapter 4: Leadership 
+Chapter 4: Leadership 
+Steve was now a team leader. It was harder than he tought.
 
 Steve was now a team leader. It was harder than he tought.
 
