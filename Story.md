@@ -37,3 +37,7 @@ Steve then got reincarnated as a child of a Japanese Idol.
 # Chapter 9: Steve v2
 
 Steve now has premium society status
+
+# Chapter 10: Romance
+
+Steve met Mary and fell in love.
