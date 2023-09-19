@@ -1,7 +1,7 @@
 # Chapter 1: Introduction
 
 Once upon a time, in the office of a software development firm.
-There was a programmer named John.
+There was a programmer named Steve.
 He was happy at his job
 
 # Chapter 2: The Project
