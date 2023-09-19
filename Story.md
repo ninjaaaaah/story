@@ -11,3 +11,7 @@ One day, he was invited to join a key project.
 # Chapter 3: The Promotion
 
 The boss decided to have a talk with him.
+
+Chapter 4: Promotion (Again)
+The boss decided to have a talk with him again.
+
