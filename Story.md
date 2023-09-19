@@ -25,3 +25,7 @@ A critical prod issue occurred. Everyone looked to Steve for the solution. Steve
 # Chapter 6: Resolution
 
 Steve found the bug, thanks to careful replication.
+
+# Chapter 7: Death
+
+Steve got hit by a car.
