@@ -38,5 +38,5 @@ Steve now has premium society status
 
 # Chapter 10: Adam and Steve
 
-At first, Steve thought that he was still the same man until he met someone named Adam.
+At first, Steve thought that he was still the same man until he met someone named Alex.
 He was lovestruck at first sight.
