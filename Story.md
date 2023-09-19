@@ -16,8 +16,6 @@ The boss decided to have a talk with him. "Steve, it's time you became a Team Le
 
 Steve was now a team leader. It was harder than he tought.
 
-Steve was now a team leader. It was harder than he tought.
-
 # Chapter 5: Prod Issue
 
 A critical prod issue occurred. Everyone looked to Steve for the solution. Steve decided that the team needed to replicate the bug first.
@@ -37,3 +35,8 @@ Steve then got reincarnated as a child of a Japanese Idol.
 # Chapter 9: Steve v2
 
 Steve now has premium society status
+
+# Chapter 10: Adam and Steve
+
+At first, Steve thought that he was still the same man until he met someone named Adam.
+He was lovestruck at first sight.
